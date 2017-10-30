@@ -1,0 +1,27 @@
+# PCSG00685
+ 
+_V0 automatic playing-MaiDump
+$ A200 82F8C5B4 E1A00000
+ 
+_V0 shows the number of combos-MaiDump
+$ A200 82F86FF8 E3500001
+ 
+_V0 falling all the notes into yellow-MaiDump
+$ A200 82F8F1BC E1A00000
+ 
+_V0 completion rate of 100%-MaiDump
+$ A200 82F5AA44 E3040240
+$ A200 82F5AA48 E340000F
+
+_V0 automatic playing - NoNpDRM
+$ A200 8188C5B4 E1A00000
+ 
+_V0 shows the number of combos-NoNpDRM
+$ A200 81886FF8 E3500001
+ 
+_V0 falling all the notes into yellow-NoNpDRM
+$ A200 8188F1BC E1A00000
+ 
+_V0 completion rate of 100%-NoNpDRM
+$ A200 8185AA44 E3040240
+$ A200 8185AA48 E340000F 
