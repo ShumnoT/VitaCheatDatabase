@@ -96,15 +96,12 @@ V0 Health ▼Tag Missions▲ Only (For female players)*
 $0200 81D4EC9C 0E100E10
 $0200 81D4ECB0 FFFF0E10
 
-
 _V1 Ninja Race Timers Stopped ***
 $0100 83ECC074 0000151A
 $0200 83ECC064 00000256
 
-
 _V1 Kill Combo Gauge Max*
 $0200 83ECC0D8 41A00000
-
 
 _V1 Max Kill Combo in Ninja Race *
 $0100 83ECC0DC 000003E7
