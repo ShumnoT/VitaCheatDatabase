@@ -1,0 +1,16 @@
+# PCSE00801
+
+_V0 Infinite/ Max Money
+$0200 8890A400 3B9AC9FF
+
+_V0 Infinite/Max Mission Time
+$0200 88A344D8 00001740
+
+_V0 Infinite Health
+$0200 889048EC 43030000
+
+_V0 Infinite Stamina
+$0200 889048F4 42E60000
+
+_V0 Infinite OP
+$0200 889048F2 000042E6
