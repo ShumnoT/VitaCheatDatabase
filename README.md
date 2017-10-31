@@ -25,3 +25,10 @@ PCSB00070 - UMvsC3
 PCSA00126 - GoW-C
 
 PCSE00443 - Neptunia Re;Birth 1
+
+Added Games from 
+http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa
+Current as of 30 OCT 17
+and
+http://www.speedfly.cn/category/game/sony/psv_cheat/
+Adding to list.....
