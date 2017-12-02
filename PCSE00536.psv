@@ -1,0 +1,34 @@
+# PCSE00536
+
+
+_V1 Skill Points
+$0100 821114E8 0000270F
+$0100 8211186C 0000270F
+
+
+_V1 Attack+Physical Defense
+$0200 82111470 12E01400
+
+
+_V1 Stamina+Stamina Regeneration
+$0200 8211146C 163B070F
+
+
+_V1 Increased Health Points
+$0100 82111468 00000DC0
+
+
+_V1 Intelligence+Magic Defense
+$0200 82111474 270F270F
+
+
+_V1 Speed +Luck
+$0200 82111478 270F270F
+
+
+_V1 Rock
+$0200 821114E4 3B9AC9FF
+
+
+_V1 Level 99 Character
+$0000 82111464 00000063
