@@ -3,5 +3,8 @@
 _V0 999,999 Points-SomeNotShow
 $0200 82A66C40 000F423F
 
-_V0 Always Ball 1-NOT BigShot
+_V0 Always Ball 1-CFTBL
 $0000 8289D7E0 00000001
+
+_V0 Always Ball 1-MedM
+$0000 8289D783 00000000
