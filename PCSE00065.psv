@@ -1,4 +1,4 @@
-# PCSE00065 Pinball Arcade Version 1.25
+# PCSE00065 Pinball Arcade Ver1.25
 
 _V0 999,999 Points-SomeNotShow
 $0200 82A66C40 000F423F
@@ -20,3 +20,6 @@ $0000 8291D754 00000001
 
 _V0 Always Ball 1-STTNG
 $0000 8289D7E3 00000001
+
+_V0 Always Ball 1-FunHouse
+$0000 8289D7DF 00000001
