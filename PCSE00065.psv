@@ -1,10 +1,22 @@
-# PCSE00065 Pinball Arcade (US) NoNpDRM
+# PCSE00065 Pinball Arcade Version 1.25
 
 _V0 999,999 Points-SomeNotShow
 $0200 82A66C40 000F423F
 
-_V0 Always Ball 1-CFTBL
+_V0 Always Ball 1-Creat-T2
 $0000 8289D7E0 00000001
 
-_V0 Always Ball 1-MedM
+_V0 Always Ball 1-MM-TAN
 $0000 8289D783 00000001
+
+_V0 Always Ball 1-ScaredS
+$0000 8289D780 00000001
+
+_V0 Always Ball 1-AttackMars
+$0000 8289D786 00000001
+
+_V0 Always Ball 1-Teed
+$0000 8291D754 00000001
+
+_V0 Always Ball 1-STTNG
+$0000 8289D7E3 00000001
