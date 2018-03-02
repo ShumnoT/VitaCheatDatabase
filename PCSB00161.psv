@@ -1,0 +1,10 @@
+# PCSB00161 Vitamin 1.00
+ 
+_V0 Get Score Max
+$A200 8103CDFC 4100F06F
+$A100 8103CE00 00001C00
+ 
+_V0 Inf Credits
+$A100 8103AB3A 00001C00
+
+VIP Items include Inf HP, Max FP
