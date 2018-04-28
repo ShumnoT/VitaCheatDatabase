@@ -19,3 +19,6 @@ Current as of 30 OCT 17
 and
 http://www.speedfly.cn/category/game/sony/psv_cheat/
 Adding to list.....
+
+NEW VERSION FOR 3.65 Enso ONLY!!!!!!!!!!
+http://finalcheat.github.io/
