@@ -1,25 +1,26 @@
 # PCSE00051
 # -- MUST SKIP OPENING INTRO OR CODES WILL NOT WORK
 # Intro - Codes created if you want to watch the Intro Video
+# Challenge - Codes work in the Challenges
 
 _V0 $999,999
 $0200 813B4DD4 497423F0
 
-_V0 0 Crashes --
+_V0 99,999 Score-Game-Challenge
+$0200 89B36AD4 47C34F80
+
+_V0 0 Crashes-Game-Challenge--
 $0200 89B36AC0 00000000
-
-_V0 Inf Time --
-$0200 89B36ABC 30000000
-
-_V1 Low-Inf Time-Intro
-$0200 89F5E99C 30000000
 
 _V0 0 Crashes-Falls-Intro
 $0000 89F5E9A0 00000000
 
-_V0 99,999 Points
-$0200 89B36AD4 47C34F80
+_V0 Inf Time-Low Time--
+$0200 89B36ABC 30000000
 
-_V0 Challenge - Inf Fuel
+_V0 Low-Inf Time-Intro
+$0200 89F5E99C 30000000
+
+_V0 Inf Fuel - Challenge
 $3201 8131C57C 00000010
 $3300 00000000 442F0000
