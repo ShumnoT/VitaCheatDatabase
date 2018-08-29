@@ -1,14 +1,21 @@
 # PCSE00051
-# MUST SKIP OPENING INTRO OR CODES WILL NOT WORK
+# -- MUST SKIP OPENING INTRO OR CODES WILL NOT WORK
+# Intro - Codes created if you want to watch the Intro Video
 
 _V0 $999,999
 $0200 813B4DD4 497423F0
 
-_V0 0 Crashes (Enable at Main)
+_V0 0 Crashes --
 $0200 89B36AC0 00000000
 
-_V0 Inf Time
+_V0 Inf Time --
 $0200 89B36ABC 30000000
+
+_V1 Low-Inf Time-Intro
+$0200 89F5E99C 30000000
+
+_V0 0 Crashes-Falls-Intro
+$0000 89F5E9A0 00000000
 
 _V0 99,999 Points
 $0200 89B36AD4 47C34F80
