@@ -14,11 +14,17 @@ Find these Addresses enough times, and you can find the Main Address for the Cod
 Cheat files to use with PsVitaCheat from finalcheat
 
 Added Games from 
+
 http://www.codemasters-project.net/forum/forum/playstation-hacking/playstation-vita-hacking/code-vault-ps3-aa
+
 Current as of 30 OCT 17
+
 and
+
 http://www.speedfly.cn/category/game/sony/psv_cheat/
+
 Adding to list.....
 
 NEW VERSION FOR 3.65 Enso ONLY!!!!!!!!!!
+
 http://finalcheat.github.io/
