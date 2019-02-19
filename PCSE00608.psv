@@ -1,3 +1,6 @@
+# Resident Evil 2 - Revolations US
+# Credit is nolberto from GameHacking
+
 _V0 Infinite Health
 $B200 00000000 00000000
 $A100 00376C38 0000BF00
@@ -5,8 +8,3 @@ $A100 00376C38 0000BF00
 _V0 Infinite Ammo
 $B200 00000000 00000000
 $A100 0037E2E6 0000BF00
-
-
-Possibly US Version, but if it is like the typical B200 Codes, can use on other Regions
-
-Credit: nolberto82 on Gamehacking
