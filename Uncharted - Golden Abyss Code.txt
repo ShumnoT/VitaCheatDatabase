@@ -4,3 +4,5 @@ $A100 815A55FC 0000E000
 Unknown Region, but I think it is for the US Version ( PCSA00029 )
 
 Please Test to find out
+
+Credit: Nolberto82 on GameHacking
