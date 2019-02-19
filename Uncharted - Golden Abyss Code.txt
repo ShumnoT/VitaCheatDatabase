@@ -1,0 +1,6 @@
+_V0 Enemies Cannot Fire Weapon(Can still punch you.)
+$A100 815A55FC 0000E000
+
+Unknown Region, but I think it is for the US Version ( PCSA00029 )
+
+Please Test to find out
