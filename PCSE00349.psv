@@ -1,3 +1,6 @@
+# PCSE00349 1001 Spikes
+# Credit is nolberto82 at GameHacking
+
 _V0 Invincibility
 $B200 00000000 00000000
 $A100 0001F1C6 0000F8C8
@@ -7,7 +10,3 @@ $B200 00000000 00000000
 $C201 00000001 00001000
 $A100 0001EBD4 00004770
 
-
-Possibly Multi-Region. Please Test
-
-Credit: nolberto82 on GameHacking.org
